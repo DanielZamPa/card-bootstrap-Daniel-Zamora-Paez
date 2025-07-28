@@ -5,3 +5,15 @@
     #003049
     #669BBC
  */
+.card{    
+    color: white;
+}
+.info{
+    background-color: #780000;
+}
+.btn{
+    border-color: #780000;
+}
+.link_button :hover{
+    background-color: #C1121F;    
+}
